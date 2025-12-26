@@ -1,6 +1,4 @@
-**Admin Login:**
-- **Email:** kanikapunia119@gmail.com
-- **Password:** kanika1106
+
 
 # Quickblog
 
